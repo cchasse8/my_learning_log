@@ -1,0 +1,16 @@
+  549  git push partner main
+  550  git push partner main --force
+  551  cd ~/learning_log
+  552  git remote set-url origin https://github.com/cchasse8/learning_log.git
+  553  git push origin main
+  554  git remote -v
+  555  git remote set-url origin https://cchasse8@github.com/cchasse8/learning_log.git
+  556  git push origin main
+  557  git credential-osxkeychain erase
+  558  git push origin main
+  559  git push origin main
+  560  git remote set-url origin git@github.com:cchasse8/learning_log.git
+  561  git push origin main
+  562  git remote set-url origin https://cchasse8@github.com/cchasse8/learning_log.git
+  563  git push origin main
+  564  git push origin main --force
